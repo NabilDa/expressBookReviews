@@ -1,4 +1,4 @@
-# 3. Book Review App – Node.js & Express
+# Book Review App – Node.js & Express
 
 A Node.js and Express-based web application that allows users to browse books, register, and manage book reviews with secure authentication.
 
