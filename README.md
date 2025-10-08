@@ -38,7 +38,7 @@ npm install
 ### Run the Application
 ```bash
 # Start the Express server
-node server.js
+node index.js
 
 # Test the API endpoints with Postman
 ```
